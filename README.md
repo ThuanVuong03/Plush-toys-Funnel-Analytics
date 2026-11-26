@@ -1,13 +1,5 @@
 # Phân Tích Hiệu Suất Sản Phẩm & Tối Ưu Hóa Phễu Chuyển Đổi Plush toys
 
-<p align="center">
-  <video src="README video.mp4" controls width="800">
-    Trình duyệt của bạn không hỗ trợ phát video. Bạn có thể xem trực tiếp tại <a href="README video.mp4">README video.mp4</a>.
-  </video>
-  <br />
-  <em>Nguồn video: sưu tầm</em>
-</p>
-
 Dự án nghiên cứu chuyên sâu về hiệu suất kinh doanh, doanh thu, tỷ lệ hoàn tiền và tối ưu hóa phễu chuyển đổi (Conversion Rate Optimization - CRO) với dữ liệu kinh doanh và lưu lượng của sản phẩm thú nhồi bông. Thông qua việc phân tích chuỗi dữ liệu hành vi người dùng và đơn hàng, dự án xác định các sản phẩm chủ lực, phát hiện các điểm nghẽn trong quy trình mua hàng và đề xuất chiến lược kinh doanh nhằm tối đa hóa doanh thu thuần.
 
 ---
